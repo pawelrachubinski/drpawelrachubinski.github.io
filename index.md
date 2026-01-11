@@ -1,13 +1,13 @@
 ---
 title: Dr. med. Pawel Rachubinski
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Dr. med. Pawel Rachubinski - einfach Urologie
 intro_image: "images/illustrations/portrait.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Dr. med. Pawel Rachubinski - Einfach Urologie
+# Dr. med. Pawel Rachubinski - einfach Urologie
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Moderne Urologie – einfach, transparent, patientenorientiert.
