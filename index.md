@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Dr. med. Pawel Rachubinski - einfach Urologie
+# Dr. med. Pawel Rachubinski, FEBU
 
-Moderne Urologie – einfach, transparent, patientenorientiert.
+Einfach Urologie – modern, transparent, patientenorientiert.
