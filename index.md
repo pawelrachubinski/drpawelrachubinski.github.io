@@ -11,3 +11,5 @@ show_call_box: true
 # Dr. med. Pawel Rachubinski, FEBU
 
 Einfach Urologie – modern, transparent, patientenorientiert.
+
+Gesetzlich, Selbstzahler oder privat – alles im Rahmen der Versicherung ohne Zusatzkosten.
