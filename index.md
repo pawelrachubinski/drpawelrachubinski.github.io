@@ -12,4 +12,6 @@ show_call_box: true
 
 Oberarzt in der Klinik für Urologie und urologische Onkologie in Alfried-Krupp-Krankenhaus in Essen-Steele. 
 
+Einfach Urologie - modern, transparent, patientenorientiert.
+
 Gesetzlich oder privat – im Rahmen der Versicherung ohne Zusatzkosten. 
