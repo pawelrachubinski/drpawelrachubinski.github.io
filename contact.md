@@ -5,13 +5,11 @@ description: Kontakt
 ---
 
 Telefonisch erreichen Sie die urologische Ambulanz zur Terminvereinbarung in der Sprechstunde:
-
-Sprechzeiten:
-Montag: 12:00–16:00 Uhr
-
 Telefonische Erreichbarkeit:
 Montag bis Donnerstag: 7:30–17:00 Uhr
 Freitag: 7:30–15:30 Uhr
+Sprechzeiten:
+Montag: 12:30–16:00 Uhr
 
 Telefon: 0201 805-1146
 Telefax: 0201 805-2175
