@@ -4,19 +4,20 @@ layout: contact
 description: Kontakt
 ---
 
-Telefonisch erreichen Sie die urologische Ambulanz zur Terminvereinbarung in der Sprechstunde:
-Telefonische Erreichbarkeit:
-Montag bis Donnerstag: 7:30–17:00 Uhr
-Freitag: 7:30–15:30 Uhr
-Sprechzeiten:
-Montag: 12:30–16:00 Uhr
+Telefonisch erreichen Sie die urologische Ambulanz zur Terminvereinbarung in der Sprechstunde: <br/>
 
-Telefon: 0201 805-1146
-Telefax: 0201 805-2175
+Telefonische Erreichbarkeit: <br/>
+Montag bis Donnerstag: 7:30–17:00 Uhr <br/>
+Freitag: 7:30–15:30 Uhr <br/>
+Sprechzeiten: <br/>
+Montag: 12:30–16:00 Uhr <br/>
 
-Direkte Vereinbarung von Operationsterminen:
+Telefon: 0201 805-1146 <br/>
+Telefax: 0201 805-2175 <br/>
 
-Urologisches Patientenmanagement (UPM)
-Telefon: 0201 805-1772
-Telefax: 0201 805-2175
-E-Mail: upm@krupp-krankenhaus.de
+Direkte Vereinbarung von Operationsterminen: <br/>
+
+Urologisches Patientenmanagement (UPM) <br/>
+Telefon: 0201 805-1772 <br/>
+Telefax: 0201 805-2175 <br/>
+E-Mail: upm@krupp-krankenhaus.de <br/>
