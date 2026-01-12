@@ -9,10 +9,10 @@ Dr. med. Pawel Rachubinski, FEBU
 
 Studium <br/>
 
-2011 - 2017	Studium der Humanmedizin, Medizinische Fakultät, Universität Lodz <br/>
-2017	Staatsexamen <br/>
-2017	polnische Approbation <br/>
 2019	deutsche Approbation <br/>
+2017	polnische Approbation <br/>
+2017	Staatsexamen <br/>
+2011 - 2017	Studium der Humanmedizin, Medizinische Fakultät, Universität Lodz <br/>
 
 Doktorarbeit <br/>
 
@@ -22,19 +22,21 @@ Doktorvater:	PD Dr. med. Sami-Ramzi Leyh-Bannurah <br/>
 
 Beruflicher Werdegang <br/>
 
-2017 - 2018	Arzt im Praktikum, Krankenhaus des Ministeriums der inneren Angelegenheiten und der Verwaltung in Lodz, Chefarzt: Dr. med. Kamil Bajerowski <br/>
-2018 - 2019	Arztassistent, St. Antonius-Hospital Gronau GmbH, Klinik für Urologie, Kinderurologie & Urologische Onkologie, Gronau, Chefarzt: PD Dr. med. Jörn H. Witt <br/>
-2019 - 2023	Arzt in der Weiterbildung zum Facharzt für Urologie, St. Antonius-Hospital Gronau GmbH, Klinik für Urologie, Kinderurologie & Urologische Onkologie, Gronau, Chefarzt: PD Dr. med. Jörn H. Witt <br/>
-2023	Funktionsoberarzt, Ärztlicher Leiter für Prostatakarzinomdiagnostik, Bildgebung und Digitalisierung, Paracelsus-Klinik Golzheim Düsseldorf, Klinik für Urologie, Düsseldorf, Chefarzt: PD Dr. med. Jörn H. Witt <br/>
-2023-2025	Funktionsoberarzt, minimal invasive und Roboterassistierte Operationen, Goldstadt Privatklinik GmbH, Pforzheim, Chefarzt: Prof. Dr. med. Sven Lahme <br/>
 seit 2025 Oberarzt, Alfried Krupp Krankenhaus Steele, Essen, Chefarzt: PD Dr. med. Stephan Buse <br/>
+2023-2025	Funktionsoberarzt, minimal invasive und Roboterassistierte Operationen, Goldstadt Privatklinik GmbH, Pforzheim, Chefarzt: Prof. Dr. med. Sven Lahme <br/>
+2023	Funktionsoberarzt, Ärztlicher Leiter für Prostatakarzinomdiagnostik, Bildgebung und Digitalisierung, Paracelsus-Klinik Golzheim Düsseldorf, Klinik für Urologie, Düsseldorf, Chefarzt: PD Dr. med. Jörn H. Witt <br/>
+2019 - 2023	Arzt in der Weiterbildung zum Facharzt für Urologie, St. Antonius-Hospital Gronau GmbH, Klinik für Urologie, Kinderurologie & Urologische Onkologie, Gronau, Chefarzt: PD Dr. med. Jörn H. Witt <br/>
+2018 - 2019	Arztassistent, St. Antonius-Hospital Gronau GmbH, Klinik für Urologie, Kinderurologie & Urologische Onkologie, Gronau, Chefarzt: PD Dr. med. Jörn H. Witt <br/>
+2017 - 2018	Arzt im Praktikum, Krankenhaus des Ministeriums der inneren Angelegenheiten und der Verwaltung in Lodz, Chefarzt: Dr. med. Kamil Bajerowski <br/>
 
 Zusatzqualifikationen <br/>
 
 Da Vinci-Technologieschulung als Konsolenchirurg <br/>
 Zertifikat - European Basic Laparoscopic Urological Skills (EBLUS) <br/>
 Zertifikat - European Endoscopic Stone Treatment (ESTs1) <br/>
-Fachkunde im Strahlenschutz, Röntgendiagnostik des gesamten Harntraktes und/oder der Geschlechtsorgane <br/> 
+Fellow of the European Board of Urology (FEBU) <br/>
+Fachkunde im Strahlenschutz (Diagnostik und interventionelle Radiologie im Bereich der ableitenden
+Harnwege) <br/> 
 Laserschutzbeauftragter <br/>
 Prüfarzt - Good Clinical Practice <br/>
 Zertifikat - Notarztkurs <br/>
