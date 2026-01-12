@@ -1,87 +1,55 @@
 ---
-title: About
+title: CV
 layout: page
-description: About
+description: CV
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Dr. med. Pawel Rachubinski, FEBU
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+Studium
 
-# Objectives
+2011 - 2017	Studium der Humanmedizin, Medizinische Fakultät, Universität Lodz
+2017	Staatsexamen
+2017	polnische Approbation
+2019	deutsche Approbation
 
-Financial accounting and financial reporting are often used as synonyms.
+Doktorarbeit
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+Thema:	„Optimierte Strategie der gezielten perinealen MRT-Fusions-Biopsie der Prostata durch Sekundärläsionen statt einer zusätzlichen systematischen Biopsie“
+Doktorvater:	PD Dr. med. Sami-Ramzi Leyh-Bannurah
+2022	mündliche Prüfung (magna cum laude)
 
-## Relevance
+Beruflicher Werdegang
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+2017 - 2018	Arzt im Praktikum, Krankenhaus des Ministeriums der inneren Angelegenheiten und der Verwaltung in Lodz, Chefarzt: Dr. med. Kamil Bajerowski
+2018 - 2019	Arztassistent, St. Antonius-Hospital Gronau GmbH, Klinik für Urologie, Kinderurologie & Urologische Onkologie, Gronau, Chefarzt: PD Dr. med. Jörn H. Witt
+2019 - 2023	Arzt in der Weiterbildung zum Facharzt für Urologie, St. Antonius-Hospital Gronau GmbH, Klinik für Urologie, Kinderurologie & Urologische Onkologie, Gronau, Chefarzt: PD Dr. med. Jörn H. Witt
+2023	Funktionsoberarzt, Ärztlicher Leiter für Prostatakarzinomdiagnostik, Bildgebung und Digitalisierung, Paracelsus-Klinik Golzheim Düsseldorf, Klinik für Urologie, Düsseldorf, Chefarzt: PD Dr. med. Jörn H. Witt
+2023-2025	Funktionsoberarzt, minimal invasive und Roboterassistierte Operationen, Goldstadt Privatklinik GmbH, Pforzheim, Chefarzt: Prof. Dr. med. Sven Lahme
+seit 2025 Oberarzt, Alfried Krupp Krankenhaus Steele, Essen, Chefarzt: PD Dr. med. Stephan Buse
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+Zusatzqualifikationen
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+Da Vinci-Technologieschulung als Konsolenchirurg
+Zertifikat - European Basic Laparoscopic Urological Skills (EBLUS)
+Zertifikat - European Endoscopic Stone Treatment (ESTs1)
+Fachkunde im Strahlenschutz, Röntgendiagnostik des gesamten Harntraktes und/oder der Geschlechtsorgane
+Laserschutzbeauftragter
+Prüfarzt - Good Clinical Practice
+Zertifikat - Notarztkurs
+Befundung MRT-Prostata
 
-## Faithful Representation
+Wissenschaftliche Publikationen
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+Rachubinski P, Witt JH, Budäus L, Zinke J, Fangmeyer B, Spieker T, Vetterlein M, Rahbar K, Kachanov M, Leyh-Bannurah SR. Precision-guidance vs Systematic Sampling: Optimizing Biopsy Assessment of Secondary Prostate Cancer Suspicious Multiparametric Magnetic Resonance Imaging Lesions. J Urol. 2022 Dec;208(6):1203-1213. doi: 10.1097/JU.0000000000002921. Epub 2022 Aug 24. PMID: 36001731.
+Kachanov M, Budäus L, Witt JH, Wagner C, Zinke J, Fangmeyer B, Schütte A, Spieker T, Beyersdorff D, Graefen M, Rachubinski P, Leyh-Bannurah SR. Suitability of conventional systematic vs. MRI-guided targeted biopsy approaches to assess surgical treatment delay for radical prostatectomy. World J Urol. 2022 Dec;40(12):2955-2961. doi: 10.1007/s00345-022-04207-9. Epub 2022 Nov 11. PMID: 36357604; PMCID: PMC9649392.
+Liakos N, Witt JH, Rachubinski P, Leyh-Bannurah SR. The Dilemma of Misclassification Rates in Senior Patients With Prostate Cancer, Who Were Treated With Robot-Assisted Radical Prostatectomy: Implications for Patient Counseling and Diagnostics. Front Surg. 2022 Feb 16;9:838477. doi: 10.3389/fsurg.2022.838477. PMID: 35252339; PMCID: PMC8888518.
+Karagiotis T, Witt JH, Jankowski T, Mendrek M, Wagner C, Schuette A, Liakos N, Rachubinski P, Urbanova K, Oelke M, Kachanov M, Leyh-Bannurah SR. Two-year quality of life after robot-assisted radical prostatectomy according to pentafecta criteria and cancer of the prostate risk assessment (CAPRA-S). Sci Rep. 2022 Jan 7;12(1):244. doi: 10.1038/s41598-021-04289-2. PMID: 34997130; PMCID: PMC8742105.
+Leyh-Bannurah SR, Wagner C, Schuette A, Liakos N, Karagiotis T, Mendrek M, Rachubinski P, Oelke M, Tian Z, Witt JH. Feasibility of robot-assisted radical prostatectomy in men at senior age ≥75 years: perioperative, functional, and oncological outcomes of a high-volume center. Aging Male. 2022 Dec;25(1):8-16. doi: 10.1080/13685538.2021.2018417. PMID: 34957914."Two-year quality of life after robot-assisted radical prostatectomy according to pentafecta criteria and cancer of the prostate risk assessment (CAPRA-S)." Scientific reports 12.1 (2022): 1-8.
+Leyh-Bannurah SR, Wagner C, Schuette A, Liakos N, Karagiotis T, Mendrek M, Rachubinski P, Urbanova K, Oelke M, Witt JH. Improvement of quality of life and symptom burden after robot-assisted radical prostatectomy in patients with moderate to severe LUTS. Sci Rep. 2021 Aug 18;11(1):16757. doi: 10.1038/s41598-021-95525-2. PMID: 34408175; PMCID: PMC8373967.
+Lll KG, Klimczak A, Rachubinski P, Jagłowska A, Kwapiszewska A. Consumption of sweetened beverages as a risk factor of colonization of oral cavity by fungi - eating habits of university students. Ann Parasitol. 2015;61(3):175-82. doi: 10.17420/ap6103.04. PMID: 26568990.
 
-## Enhancing Qualitative Characteristics
+Gutachter von wissenschaftlichen Zeitschriften
 
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Journal of Men’s Health
