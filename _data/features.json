@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "Erfahrene urologische Fachkompetenz",
+    "title": "Facharzt für Urologie",
+    "description": "Umfassende urologische Diagnostik & Therapie.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Direkt und persönlich",
+    "description": "Effiziente Termin- und OP-Koordination.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Versicherungsleistung",
+    "description": "Versorgung für gesetzlich Versicherte und Privatpatienten im Rahmen der Krankenversicherung – ohne Zusatzkosten.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
