@@ -9,7 +9,7 @@ Dr. med. Pawel Rachubinski, FEBU
 
 Studium
 
-2011 - 2017	Studium der Humanmedizin, Medizinische Fakultät, Universität Lodz
+2011 - 2017	Studium der Humanmedizin, Medizinische Fakultät, Universität Lodz <br/>
 2017	Staatsexamen
 2017	polnische Approbation
 2019	deutsche Approbation
