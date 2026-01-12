@@ -8,8 +8,7 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Dr. med. Pawel Rachubinski, FEBU
-# Facharzt für Urologie
+# Dr. med. Pawel Rachubinski, FEBU, Facharzt für Urologie
 
 Einfach Urologie – modern, transparent, patientenorientiert.
 
