@@ -10,7 +10,7 @@ show_call_box: true
 
 # Dr. med. Pawel Rachubinski Facharzt für Urologie, FEBU
 
-Oberarzt in der Klinik für Urologie und urologische Onkologie in Alfried-Krupp-Krankenhaus in Essen-Steele. </br>
-Einfach Urologie – modern, transparent, patientenorientiert. </br>
+Oberarzt in der Klinik für Urologie und urologische Onkologie in Alfried-Krupp-Krankenhaus in Essen-Steele. 
+Einfach Urologie – modern, transparent, patientenorientiert. 
 
-Gesetzlich oder privat – im Rahmen der Versicherung ohne Zusatzkosten. </br>
+Gesetzlich oder privat – im Rahmen der Versicherung ohne Zusatzkosten. 
