@@ -1,7 +1,7 @@
 [
   {
     "title": "Facharzt für Urologie",
-    "description": "Umfassende urologische Diagnostik & Therapie.",
+    "description": "Umfassende und moderne urologische Diagnostik & Therapie.",
     "image": {
       "url": "images/features/icon_caduceus.png",
       "width": 80,
@@ -10,7 +10,7 @@
   },
   {
     "title": "Direkt und persönlich",
-    "description": "Effiziente Termin- und OP-Koordination.",
+    "description": "Effiziente Termin- und OP-Koordination. Individuelle Beratung.",
     "image": {
       "url": "images/features/icon_contact.png",
       "width": 80,
@@ -19,7 +19,7 @@
   },
   {
     "title": "Versicherungsleistung",
-    "description": "Behandlung ohne Zusatzkosten.",
+    "description": "Behandlung ohne Zusatzkosten im Rahmen der GKV und PKV.",
     "image": {
       "url": "images/features/icon_healthcard.png",
       "width": 80,
