@@ -12,4 +12,4 @@ show_call_box: true
 
 Einfach Urologie – modern, transparent, patientenorientiert.
 
-Gesetzlich, Selbstzahler oder privat – alles im Rahmen der Versicherung ohne Zusatzkosten.
+Gesetzlich oder privat – alles im Rahmen der Versicherung ohne Zusatzkosten.
