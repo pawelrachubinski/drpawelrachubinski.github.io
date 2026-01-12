@@ -1,5 +1,5 @@
 main:
-  - name: "Therapie Spektrum"
+  - name: "Leistungsspektrum"
     url: "/services/"
     weight: 1
   - name: "CV"
