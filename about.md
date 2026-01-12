@@ -31,10 +31,11 @@ seit 2025 Oberarzt, Alfried Krupp Krankenhaus Steele, Essen, Chefarzt: PD Dr. me
 
 Zusatzqualifikationen <br/>
 
+Facharzt für Urologie <br/>
+Fellow of the European Board of Urology (FEBU) <br/>
 Da Vinci-Technologieschulung als Konsolenchirurg <br/>
 Zertifikat - European Basic Laparoscopic Urological Skills (EBLUS) <br/>
 Zertifikat - European Endoscopic Stone Treatment (ESTs1) <br/>
-Fellow of the European Board of Urology (FEBU) <br/>
 Fachkunde im Strahlenschutz (Diagnostik und interventionelle Radiologie im Bereich der ableitenden
 Harnwege) <br/> 
 Laserschutzbeauftragter <br/>
