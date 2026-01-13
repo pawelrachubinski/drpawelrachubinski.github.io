@@ -1,5 +1,5 @@
 ---
-title: Dr. med. Pawel Rachubinski
+title: Dr. Rachubinski
 layout: home
 description: Dr. med. Pawel Rachubinski - einfach Urologie
 intro_image: "images/illustrations/portrait.svg"
