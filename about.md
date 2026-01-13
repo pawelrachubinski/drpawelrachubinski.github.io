@@ -8,7 +8,7 @@ bodyClass: page-about
 Dr. med. Pawel Rachubinski, FEBU
 
 
-Studium 
+<strong> Studium </strong>
 
 
 2019	deutsche Approbation 
