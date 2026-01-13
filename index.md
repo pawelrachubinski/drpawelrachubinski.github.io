@@ -4,7 +4,7 @@ layout: home
 description: Dr. med. Pawel Rachubinski - einfach Urologie
 intro_image: "images/illustrations/portrait.svg"
 intro_image_absolute: true
-intro_image_hide_on_mobile: true
+intro_image_hide_on_mobile: false
 show_call_box: true
 ---
 
