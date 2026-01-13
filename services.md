@@ -4,7 +4,7 @@ layout: services
 description: Services
 intro_image: "images/illustrations/leistungen.png"
 intro_image_absolute: false
-intro_image_hide_on_mobile: true
+intro_image_hide_on_mobile: false
 ---
 
 # Urologie - Diagnostik und Therapie
