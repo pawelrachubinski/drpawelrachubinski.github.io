@@ -11,9 +11,13 @@ Ich biete das breite Spektrum der modernen BPH-Therapie an:
 
 Medikamentöse Therapie
 (Alphablocker, 5-Alpha-Reduktasehemmer, Kombinationstherapie) 
+
 TURP – transurethrale Resektion der Prostata 
-HoLEP – Holmiumlaser-Enukleation 
+
+HoLEP – Holmiumlaser-Enukleation
+
 ThuLEP – Thuliumlaser-Enukleation 
+
 Rezum – Wasserdampftherapie (verzögerter Behandlungseffekt, dagegen Samenergusserhalt möglich) 
 
 Alle o.g. operative Verfahren erfolgen transurethral – ohne Bauchschnitt –, mit kurzen Erholungszeiten und ohne Einfluss auf die Erektionsfähigkeit. 
