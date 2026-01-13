@@ -88,6 +88,6 @@ Befundung MRT-Prostata
 
 8. Consumption of sweetened beverages as a risk factor of colonization of oral cavity by fungi-eating habits of university students. Annals of parasitology 61.3 (2015). <a href="https://doi.org/10.17420/ap6103.04">https://doi.org/10.17420/ap6103.04</a>
 
-Gutachter von wissenschaftlichen Zeitschriften
+ <strong> Gutachter von wissenschaftlichen Zeitschriften  </strong>
 
 Journal of Men’s Health 
