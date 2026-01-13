@@ -1,9 +1,8 @@
 ---
-title: "Gutartige Prostatavergrößerung"
+title: "Prostatavergrößerung"
 date: 2026-01-12T12:33:46+10:00
 weight: 1
 ---
-Gutartige Prostatavergrößerung (BPH)
 Die gutartige Prostatavergrößerung (BPH) führt häufig zu Beschwerden beim Wasserlassen bei Männern: schwacher Harnstrahl, nächtlicher Harndrang, Restharn oder akuter Harnverhalt. Zunächst erfolgt meist eine medikamentöse Therapie. Reicht diese nicht mehr aus oder treten Komplikationen wie Harnverhalt, Restharn, Blasensteine, Infektionen oder Nierenschäden auf, ist eine operative Behandlung sinnvoll.
 
 Behandlungsmöglichkeiten
