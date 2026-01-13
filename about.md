@@ -5,7 +5,7 @@ description: CV
 bodyClass: page-about
 ---
 
-Dr. med. Pawel Rachubinski, FEBU
+<strong>  Dr. med. Pawel Rachubinski, FEBU </strong>
 
 
 <strong> Studium </strong>
@@ -20,7 +20,7 @@ Dr. med. Pawel Rachubinski, FEBU
 2011 - 2017	Studium der Humanmedizin, Medizinische Fakultät, Universität Lodz 
 
 
-Doktorarbeit 
+<strong> Doktorarbeit  </strong>
 
 
 Thema:	„Optimierte Strategie der gezielten perinealen MRT-Fusions-Biopsie der Prostata durch Sekundärläsionen statt einer zusätzlichen systematischen Biopsie“ 
@@ -28,7 +28,7 @@ Doktorvater:	PD Dr. med. Sami-Ramzi Leyh-Bannurah
 2022	mündliche Prüfung (magna cum laude) 
 
 
-Beruflicher Werdegang 
+<strong> Beruflicher Werdegang   </strong>
 
 
 seit 2025 Oberarzt, Alfried Krupp Krankenhaus Steele, Essen, Chefarzt: PD Dr. med. Stephan Buse 
@@ -44,7 +44,7 @@ seit 2025 Oberarzt, Alfried Krupp Krankenhaus Steele, Essen, Chefarzt: PD Dr. me
 2017 - 2018	Arzt im Praktikum, Krankenhaus des Ministeriums der inneren Angelegenheiten und der Verwaltung in Lodz, Chefarzt: Dr. med. Kamil Bajerowski 
 
 
-Zusatzqualifikationen 
+<strong> Zusatzqualifikationen  </strong>
 
 
 Facharzt für Urologie 
@@ -69,7 +69,7 @@ Zertifikat - Notarztkurs
 Befundung MRT-Prostata 
 
 
-Wissenschaftliche Publikationen 
+<strong> Wissenschaftliche Publikationen  </strong>
 
 
 1. Precision-guidance vs Systematic Sampling: Optimizing Biopsy Assessment of Secondary Prostate Cancer Suspicious Multiparametric Magnetic Resonance Imaging Lesions. The Journal of Urology (2022): 10-1097. <a href="https://doi.org/10.1097/JU.0000000000002921">https://doi.org/10.1097/JU.0000000000002921</a>
