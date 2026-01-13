@@ -4,13 +4,13 @@ main:
     weight: 1
   - name: "Leistungsspektrum"
     url: "/services/"
-    weight: 1
+    weight: 2
   - name: "CV"
     url: "/about/"
-    weight: 2
+    weight: 3
   - name: "Kontakt"
     url: "/contact/"
-    weight: 3
+    weight: 4
 
 footer:
   - name: "Startseite"
