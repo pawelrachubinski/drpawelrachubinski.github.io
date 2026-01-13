@@ -1,4 +1,7 @@
 main:
+  - name: "Startseite"
+    url: "/"
+    weight: 1
   - name: "Leistungsspektrum"
     url: "/services/"
     weight: 1
@@ -10,7 +13,7 @@ main:
     weight: 3
 
 footer:
-  - name: "Home"
+  - name: "Startseite"
     url: "/"
     weight: 1
   - name: "Kontakt"
