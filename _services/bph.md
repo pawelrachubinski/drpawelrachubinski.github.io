@@ -3,7 +3,31 @@ title: "Prostatavergrößerung"
 date: 2026-01-12T12:33:46+10:00
 weight: 1
 ---
-Die gutartige Prostatavergrößerung (BPH) führt häufig zu Beschwerden beim Wasserlassen bei Männern: schwacher Harnstrahl, nächtlicher Harndrang, Restharn oder akuter Harnverhalt. Zunächst erfolgt meist eine medikamentöse Therapie. Reicht diese nicht mehr aus oder treten Komplikationen wie Harnverhalt, Restharn, Blasensteine, Infektionen oder Nierenschäden auf, ist eine operative Behandlung sinnvoll.
+Die gutartige Prostatavergrößerung (BPH) führt häufig zu Beschwerden beim Wasserlassen bei Männern.
+
+Möglich sind u.a. schwacher Harnstrahl, nächtlicher Harndrang, Restharn oder akuter Harnverhalt. 
+
+<strong>Diagnostik</strong>
+
+Am Anfang steht eine sorgfältige urologische Diagnostik, um die Ursachen der Beschwerden sicher einzuordnen und andere Erkrankungen auszuschließen. Dazu gehören in der Regel:
+
+ausführliches Gespräch und körperliche Untersuchung
+
+rektale Tastuntersuchung (DRU)
+
+Ultraschall von Prostata, Blase und Nieren
+
+Harnflussmessung (Uroflowmetrie)
+
+Restharnbestimmung
+
+PSA-Wert im Blut
+
+bei Bedarf weiterführende Diagnostik wie Blasenspiegelung, Urodynamik oder MRT
+
+Diese Untersuchungen ermöglichen eine genaue Einschätzung des Schweregrades und die individuelle Auswahl der optimalen Therapie.
+
+Zunächst erfolgt meist eine medikamentöse Therapie. Reicht diese nicht mehr aus oder treten Komplikationen wie Harnverhalt, Restharn, Blasensteine, Infektionen oder Nierenschäden auf, ist eine operative Behandlung sinnvoll.
 
 <strong> Behandlungsmöglichkeiten </strong>
 
