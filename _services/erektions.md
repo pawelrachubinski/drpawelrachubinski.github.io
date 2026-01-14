@@ -1,6 +1,8 @@
+---
 title: "Erektile Dysfunktion"
 date: 2026-01-12T12:33:46+10:00
 weight: 2
+---
 
 Die erektile Dysfunktion (ED) bezeichnet eine über mindestens sechs Monate bestehende Erektionsschwäche, die einen zufriedenstellenden Geschlechtsverkehr in über 70 % der Versuche verhindert. Vorübergehende Erektionsprobleme können vorkommen, im Alter nehmen dauerhafte Beschwerden jedoch deutlich zu.
 
