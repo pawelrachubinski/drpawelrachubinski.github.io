@@ -40,8 +40,6 @@ TURP – transurethrale Resektion der Prostata
 
 HoLEP – Holmiumlaser-Enukleation
 
-Rezum – Wasserdampftherapie (verzögerter Behandlungseffekt, dagegen Samenergusserhalt möglich) 
-
 Alle o.g. operative Verfahren erfolgen transurethral – ohne Bauchschnitt –, mit kurzen Erholungszeiten und ohne Einfluss auf die Erektionsfähigkeit. 
 
 <strong> Wann ist eine Operation sinnvoll? </strong>
@@ -50,7 +48,7 @@ Eine operative Therapie wird empfohlen bei: unzureichender Wirkung von Medikamen
 
 <strong>Ablauf </strong>
 
-Nach Voruntersuchung und Aufklärung erfolgt der Eingriff in Spinal- oder Allgemeinnarkose. Über die Harnröhre werden feine Instrumente eingeführt; überschüssiges Gewebe wird entweder reseziert (TURP), enukleiert (HoLEP) oder durch Wasserdampf abgetragen (Rezum). Ein Blasenkatheter verbleibt meist nur kurz.
+Nach Voruntersuchung und Aufklärung erfolgt der Eingriff in Spinal- oder Allgemeinnarkose. Über die Harnröhre werden feine Instrumente eingeführt; überschüssiges Gewebe wird entweder reseziert (TURP) oder enukleiert (HoLEP). Ein Blasenkatheter verbleibt meist nur kurz.
 
 <strong>Vorteile</strong>
 
