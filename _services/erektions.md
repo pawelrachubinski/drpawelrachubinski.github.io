@@ -4,8 +4,9 @@ date: 2026-01-12T12:33:46+10:00
 weight: 7
 ---
 
-Die erektile Dysfunktion (ED) bezeichnet eine länger anhaltende Erektionsschwäche. 
-Normalerweise muss die über mindestens sechs Monate bestehen und einen zufriedenstellenden Geschlechtsverkehr in über 70 % der Versuche verhindern. Vorübergehende Erektionsprobleme können vorkommen, im Alter nehmen dauerhafte Beschwerden jedoch deutlich zu.
+Die erektile Dysfunktion (ED) bezeichnet eine länger anhaltende Erektionsschwäche.
+
+Per Definition muss die über mindestens sechs Monate bestehen und einen zufriedenstellenden Geschlechtsverkehr in über 70 % der Versuche verhindern. Vorübergehende Erektionsprobleme können vorkommen, im Alter nehmen dauerhafte Beschwerden jedoch deutlich zu.
 
 <strong>Diagnostik</strong>
 
@@ -14,9 +15,8 @@ Am Anfang steht eine ausführliche urologische Abklärung, um hormonelle, gefä�
 ausführliches Gespräch und körperliche Untersuchung
 Laboruntersuchungen (u.a. Testosteron, Stoffwechselparameter)
 Ultraschalluntersuchung der Penisdurchblutung
-falls erforderlich medikamentös ausgelöste Testerektion (Angiodynographie)
+falls erforderlich medikamentös ausgelöste Testerektion
 Beurteilung möglicher Begleiterkrankungen wie Diabetes oder Schilddrüsenstörungen
-bei Bedarf weiterführende Diagnostik wie Doppler-Ultraschall oder Bildgebung
 
 Diese Diagnostik ermöglicht eine präzise Zuordnung der Ursache und die Auswahl der passenden Therapie.
 
@@ -26,14 +26,13 @@ Die Therapie richtet sich nach der jeweiligen Ursache. Häufig erfolgt zunächst
 
 Bei unzureichender Wirkung stehen weitere Verfahren zur Verfügung:
 
-Stoßwellentherapie (ESWT) – schmerzfreie Stimulation der Gefäßneubildung
 SKAT – Injektion eines Wirkstoffs in den Schwellkörper zur Auslösung einer Erektion
 Vakuumerektionshilfen
 operative Therapie mittels Schwellkörperprothese
 
 <strong>Wann ist eine Operation sinnvoll?</strong>
 
-Eine Operation kommt infrage, wenn medikamentöse und minimal-invasive Maßnahmen nicht ausreichend wirksam sind oder wenn strukturelle Veränderungen der Schwellkörper vorliegen. Häufig besteht die Indikation nach schwerer Gefäßschädigung, langjähriger ED oder nach Operationen wie Prostatektomie.
+Eine Operation kommt infrage, wenn medikamentöse und minimal-invasive Maßnahmen nicht ausreichend wirksam sind oder wenn strukturelle Veränderungen der Schwellkörper vorliegen. Häufig besteht die Indikation nach schwerer Gefäßschädigung, langjähriger ED oder manchmal nach Operationen wie Prostatektomie.
 
 <strong>Ablauf</strong>
 
