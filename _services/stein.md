@@ -4,7 +4,7 @@ date: 2026-01-12T12:33:46+10:00
 weight: 2
 ---
 
-Die moderne Harnleiter- und Nierensteintherapie dient der schonenden und effektiven Entfernung von Steinen aus dem Harntrakt. In spezialisierten urologischen Zentren kommen heute minimalinvasive Verfahren zum Einsatz, die eine hohe Steinfreiheitsrate bei gleichzeitig geringer Belastung für den Patienten ermöglichen. Zu den wichtigsten Techniken zählen die Ureterorenoskopie (URS) und die mini-perkutane Nephrolitholapaxie (mini-PCNL).
+Die moderne Harnleiter- und Nierensteintherapie dient der schonenden und effektiven Entfernung von Steinen aus dem Harntrakt. In spezialisierten urologischen Zentren kommen heute minimalinvasive Verfahren zum Einsatz, die eine hohe Steinfreiheitsrate bei gleichzeitig geringer Belastung für den Patienten ermöglichen. Zu den wichtigsten Techniken zählen die Ureterorenoskopie (URS) und die mini perkutane Nephrolitholapaxie (mini-PCNL).
 
 <strong>Diagnostik</strong>
 
@@ -12,6 +12,7 @@ Bei Verdacht auf Harnleiter- oder Nierensteine erfolgt zunächst eine strukturie
 
 Ultraschall der Nieren und ableitenden Harnwege
 nativ CT (Low-Dose-CT) zur exakten Steingrößen- und Lagebestimmung
+ggf. Kontrastmitteldarstellung der ableitenden Harnwege
 Laboruntersuchungen (Nierenwerte, Entzündungsparameter, Urinstatus)
 klinische Symptome wie Flankenschmerzen, Koliken oder Harnstau
 
@@ -20,7 +21,7 @@ Auf Basis von Steingröße, Lage, Dichte und anatomischen Gegebenheiten wird das
 <strong>Durchführung</strong>
 
 <strong>Ureterorenoskopie (URS)</strong>
-Die URS ist das Standardverfahren zur Behandlung von Harnleitersteinen und kleineren bis mittelgroßen Nierensteinen. Über die natürliche Harnröhre wird ein sehr dünnes, flexibles Endoskop bis zum Stein vorgeschoben. Der Stein wird unter direkter Sicht mit einem Laser (meist Holmium- oder Thulium-Laser) zerkleinert und die Fragmente entfernt oder spontan ausgeschieden.
+Die URS ist das Standardverfahren zur Behandlung von Harnleitersteinen und kleineren bis mittelgroßen Nierensteinen. Über die natürliche Harnröhre wird ein sehr dünnes, flexibles Endoskop bis zum Stein vorgeschoben. Der Stein wird entweder direkt mit Körbchen entfernt oder unter direkter Sicht mit einem Holmium-Laser zerkleinert. Anschließend werden die Fragmente entfernt oder spontan ausgeschieden.
 
 <strong>mini-PCNL</strong>
 Die mini-PCNL kommt insbesondere bei größeren oder komplexen Nierensteinen zum Einsatz. Über einen wenige Millimeter großen Hautschnitt in der Flanke wird ein feiner Arbeitskanal direkt in das Nierenhohlsystem gelegt. Über diesen Zugang kann der Stein effektiv zertrümmert und vollständig entfernt werden – bei deutlich geringerer Gewebebelastung als bei der klassischen PCNL.
@@ -46,11 +47,11 @@ wiederkehrenden Infektionen
 fehlendem Spontanabgang des Steins
 größeren oder ungünstig gelegenen Steinen
 
-Die Wahl zwischen URS und mini-PCNL richtet sich nach Größe, Lage und Beschaffenheit des Steins sowie nach patientenspezifischen Faktoren.
+Die Wahl zwischen URS und mini-PCNL richtet sich nach Größe, Lage und Beschaffenheit des Steins sowie nach patientenspezifischen Faktoren. Normalerweise zur sicheren Durchführung einer Ureterorenoskopie empfehlen wir so gennantens Pre-Stenting, d.h. Einlage eines dünnen Kunststoffschlauches in das Nierenbecken.
 
 <strong>Ablauf</strong>
 
-Nach der präoperativen Diagnostik und Aufklärung erfolgt der Eingriff unter sterilen Bedingungen. Bei der URS wird der Stein über die natürlichen Harnwege behandelt, bei der mini-PCNL über einen gezielten, sehr kleinen Hautzugang. Häufig wird vorübergehend eine Harnleiterschiene (DJ-Katheter) eingelegt, um den Harnabfluss zu sichern. Diese wird meist nach wenigen Tagen entfernt.
+Nach der präoperativen Diagnostik und Aufklärung erfolgt der Eingriff unter sterilen Bedingungen. Bei der URS wird der Stein über die natürlichen Harnwege behandelt, bei der mini-PCNL über einen gezielten, sehr kleinen Hautzugang. Häufig wird vorübergehend eine Harnleiterschiene (DJ-Katheter) eingelegt, um den Harnabfluss zu sichern. Diese wird meist nach 1-2 Wochen entfernt. Zusätzlich bei mini-PCNL wird postoperativ zusätzliche, kurzzeitige Ableitung über Flanke (Nephrostomie oder PCN) eingesetzt. 
 
 <strong>Vorteile für die Therapieplanung</strong>
 
