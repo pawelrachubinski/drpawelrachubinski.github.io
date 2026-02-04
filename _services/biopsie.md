@@ -1,5 +1,5 @@
 ---
-title: "Fusionsbiopsie der Prostata bei V.a. Prostatakrebs"
+title: "Fusionsbiopsie bei V.a. Prostatakrebs"
 date: 2026-01-12T12:33:46+10:00
 weight: 3
 ---
