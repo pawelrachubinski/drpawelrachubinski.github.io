@@ -4,7 +4,9 @@ date: 2026-01-12T12:33:46+10:00
 weight: 4
 ---
 
-Die roboterassistierte radikale Prostatektomie mit dem da Vinci 5-System ist ein hochmodernes, minimalinvasives Operationsverfahren zur Behandlung des Prostatakarzinoms. Als System der neuesten Generation setzt da Vinci 5 neue Maßstäbe in Präzision, Darstellung und operativer Kontrolle. Ziel des Eingriffs ist die vollständige Entfernung der Prostata bei maximaler Schonung von Nerven, Schließmuskel und umliegenden Strukturen – mit optimalen Voraussetzungen für Kontinenz und Potenzerhalt.
+Die roboterassistierte radikale Prostatektomie mit dem da Vinci 5-System ist ein hochmodernes, minimalinvasives Operationsverfahren zur Behandlung des Prostatakarzinoms. Als System der neuesten Generation setzt da Vinci 5 neue Maßstäbe in Präzision, Darstellung und operativer Kontrolle. 
+
+Ziel des Eingriffs ist die vollständige Entfernung der Prostata bei maximaler Schonung von Nerven, Schließmuskel und umliegenden Strukturen – mit optimalen Voraussetzungen für Kontinenz und Potenzerhalt.
 
 <strong>Diagnostik</strong>
 
@@ -12,11 +14,10 @@ Vor der Entscheidung zur Operation erfolgt eine umfassende urologische Abklärun
 
 PSA-Verlauf und PSA-Dichte
 digitale rektale Untersuchung
-multiparametrische MRT der Prostata
-gezielte und systematische Prostatabiopsie
-histologischer Befund (ISUP-Grad / Gleason-Score)
+ggf. multiparametrische MRT der Prostata
+gezielte und systematische Prostatabiopsie mit histologischemm Befund (ISUP-Grad / Gleason-Score)
 
-Auf dieser Grundlage wird gemeinsam mit dem Patienten entschieden, ob eine operative Therapie die beste Option darstellt oder alternative Behandlungsstrategien infrage kommen.
+Auf dieser Grundlage wird gemeinsam mit dem Patienten entschieden, ob eine operative Therapie die beste Option darstellt oder alternative Behandlungsstrategien wie z.B. Radiatio der Prostata infrage kommen.
 
 <strong>Durchführung</strong>
 
