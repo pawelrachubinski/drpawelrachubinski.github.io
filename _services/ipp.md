@@ -37,18 +37,18 @@ In ausgewählten Fällen – insbesondere bei gleichzeitiger erektiler Dysfunkti
 
 Eine operative Therapie wird empfohlen bei:
 
-stabiler IPP (keine Zunahme der Verkrümmung über mehrere Monate)
+stabiler IPP (keine Zunahme der Verkrümmung über zumindest 6, besser 9 Monate)
 ausgeprägter Penisverkrümmung
 Einschränkung oder Unmöglichkeit des Geschlechtsverkehrs
 hohem Leidensdruck
-Wunsch nach bestmöglichem Erhalt der Penislänge
 
 Die Entscheidung erfolgt stets individuell nach ausführlicher Aufklärung.
 
 <strong>Ablauf</strong>
 
-Nach Voruntersuchung und Aufklärung erfolgt der Eingriff in Allgemein- oder Regionalnarkose.
-Bei der Plaqueinzision mit Grafting wird die narbige Zone gezielt eröffnet und mit einem TachoSil®-Vlies gedeckt, um Spannung auszugleichen und den Penis zu begradigen.
+Nach Voruntersuchung und Aufklärung erfolgt der Eingriff in Allgemeinnarkose.
+Zuerst wird die Bindegewebekapsel die Schwellkörper umhüllt von der Penisversorgenden Nerven freipräpariert. Anschließend wird Plaque inzidiert und entstehender Defekt wird mit einem TachoSil®-Vlies gedeckt, um Spannung auszugleichen und den Penis zu begradigen. Um Risiko der Komplikationen zu reduzieren wird empfohlen gleichzeitig die Beschneidung durchzuführen.
+
 Der stationäre Aufenthalt beträgt meist wenige Tage. Eine sexuelle Karenz ist für mehrere Wochen erforderlich.
 
 <strong>Vorteile</strong>
@@ -61,4 +61,4 @@ dauerhafte Verbesserung der Lebensqualität
 
 <strong>Risiken</strong>
 
-Wie bei jedem operativen Eingriff können Komplikationen auftreten. Möglich sind vorübergehende Sensibilitätsstörungen, Schwellungen, Blutergüsse oder Veränderungen der Erektionsqualität. Bei Grafting-Verfahren besteht ein geringes Risiko für eine postoperative Erektionsschwäche. Schwere Komplikationen sind selten. Alle Risiken sowie Vor- und Nachteile der jeweiligen Methode bespreche ich ausführlich im persönlichen Aufklärungsgespräch.
+Wie bei jedem operativen Eingriff können Komplikationen auftreten. Möglich sind vorübergehende Sensibilitätsstörungen, Schwellungen, Blutergüsse oder Veränderungen der Erektionsqualität. Bei Grafting-Verfahren besteht ein Risiko für eine postoperative Erektionsschwäche. Schwere Komplikationen sind selten. Alle Risiken sowie Vor- und Nachteile der jeweiligen Methode bespreche ich ausführlich im persönlichen Aufklärungsgespräch.
