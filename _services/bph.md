@@ -1,5 +1,5 @@
 ---
-title: "Prostatavergrößerung"
+title: "HOLEP/TURP bei Prostatavergrößerung"
 date: 2026-01-12T12:33:46+10:00
 weight: 1
 ---
@@ -40,8 +40,6 @@ TURP – transurethrale Resektion der Prostata
 
 HoLEP – Holmiumlaser-Enukleation
 
-ThuLEP – Thuliumlaser-Enukleation 
-
 Rezum – Wasserdampftherapie (verzögerter Behandlungseffekt, dagegen Samenergusserhalt möglich) 
 
 Alle o.g. operative Verfahren erfolgen transurethral – ohne Bauchschnitt –, mit kurzen Erholungszeiten und ohne Einfluss auf die Erektionsfähigkeit. 
@@ -52,7 +50,7 @@ Eine operative Therapie wird empfohlen bei: unzureichender Wirkung von Medikamen
 
 <strong>Ablauf </strong>
 
-Nach Voruntersuchung und Aufklärung erfolgt der Eingriff in Spinal- oder Allgemeinnarkose. Über die Harnröhre werden feine Instrumente eingeführt; überschüssiges Gewebe wird entweder reseziert (TURP), enukleiert (HoLEP/ThuLEP) oder durch Wasserdampf abgetragen (Rezum). Ein Blasenkatheter verbleibt meist nur kurz.
+Nach Voruntersuchung und Aufklärung erfolgt der Eingriff in Spinal- oder Allgemeinnarkose. Über die Harnröhre werden feine Instrumente eingeführt; überschüssiges Gewebe wird entweder reseziert (TURP), enukleiert (HoLEP) oder durch Wasserdampf abgetragen (Rezum). Ein Blasenkatheter verbleibt meist nur kurz.
 
 <strong>Vorteile</strong>
 
