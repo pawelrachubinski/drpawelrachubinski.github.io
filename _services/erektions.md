@@ -1,7 +1,7 @@
 ---
 title: "Erektile Dysfunktion"
 date: 2026-01-12T12:33:46+10:00
-weight: 4
+weight: 7
 ---
 
 Die erektile Dysfunktion (ED) bezeichnet eine länger anhaltende Erektionsschwäche. 
