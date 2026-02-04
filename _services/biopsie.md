@@ -49,3 +49,5 @@ exakte Re-Biopsie identischer Areale bei Kontrolluntersuchungen möglich
 <strong>Risiken</strong>
 
 Selten treten Blutungen, vorübergehende Harnstrahlabschwächung oder leichte Beschwerden im Damm- oder Analbereich auf. Durch den transperinealen Zugangsweg ist das Infektionsrisiko sehr gering. Komplikationen sind insgesamt selten.
+
+Alle Risiken sowie Vor- und Nachteile dieser Methode bespreche ich gerne ausführlich im persönlichen Aufklärungsgespräch.
