@@ -1,5 +1,5 @@
 ---
-title: "Steintherapie mit URS/mini-PCNL"
+title: "URS/mini-PCNL bei Nieren- und Harnleitersteinen"
 date: 2026-01-12T12:33:46+10:00
 weight: 2
 ---
