@@ -3,7 +3,9 @@ title: "Spermatozelen- und Hydrozelenresektion"
 date: 2026-01-12T12:33:46+10:00
 weight: 8
 ---
-Die Spermatozele und die Hydrozele sind gutartige Veränderungen im Bereich des Hodensacks. Beide Erkrankungen äußern sich häufig durch eine schmerzlose Schwellung des Skrotums und sind in der Regel nicht gefährlich. Dennoch können sie als störend empfunden werden oder im Verlauf Beschwerden verursachen, sodass eine urologische Abklärung sinnvoll ist.
+Die Spermatozele und die Hydrozele sind gutartige Veränderungen im Bereich des Hodensacks. 
+
+Beide Erkrankungen äußern sich häufig durch eine schmerzlose Schwellung des Skrotums und sind in der Regel nicht gefährlich. Dennoch können sie als störend empfunden werden oder im Verlauf Beschwerden verursachen, sodass eine urologische Abklärung sinnvoll ist.
 
 <strong>Diagnostik</strong>
 
