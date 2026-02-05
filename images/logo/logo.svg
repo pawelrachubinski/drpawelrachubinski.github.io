@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg"
     width="550" height="120" viewBox="0 0 550 120" >
 
-  <g id="krupp-rings" transform="translate(500 500) scale(0.9) translate(-500 -500)">
+  <g id="krupp-rings" transform="translate(480 500) scale(0.9) translate(-500 -500)">
     <g
        transform="matrix(1.25,0,0,-1.25,-427.0749,773.59617)">
       <path
