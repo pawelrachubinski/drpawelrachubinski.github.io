@@ -3,7 +3,9 @@ title: "Harnröhrenschlitzung nach Sachse/Otis bei Harnröhrenverengungen"
 date: 2026-01-12T12:33:46+10:00
 weight: 10
 ---
-Eine Harnröhrenstriktur ist eine narbige Verengung der Harnröhre, die den Urinabfluss behindert. Typische Beschwerden sind ein abgeschwächter Harnstrahl, Pressen beim Wasserlassen, Restharngefühl oder wiederkehrende Harnwegsinfektionen. Die Urethrotomia interna nach Sachse ist ein etabliertes minimalinvasives Verfahren zur Behandlung ausgewählter Harnröhrenverengungen.
+Eine Harnröhrenstriktur ist eine narbige Verengung der Harnröhre, die den Urinabfluss behindert. 
+
+Typische Beschwerden sind ein abgeschwächter Harnstrahl, Pressen beim Wasserlassen, Restharngefühl oder wiederkehrende Harnwegsinfektionen. Die Urethrotomia interna nach Sachse ist ein etabliertes minimalinvasives Verfahren zur Behandlung ausgewählter Harnröhrenverengungen.
 
 <strong>Diagnostik</strong>
 
