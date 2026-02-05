@@ -4,7 +4,7 @@ date: 2026-01-12T12:33:46+10:00
 weight: 2
 ---
 
-Die moderne Harnleiter- und Nierensteintherapie dient der schonenden und effektiven Entfernung von Steinen aus dem Harntrakt. In spezialisierten urologischen Zentren kommen heute minimalinvasive Verfahren zum Einsatz, die eine hohe Steinfreiheitsrate bei gleichzeitig geringer Belastung für den Patienten ermöglichen. Zu den wichtigsten Techniken zählen die Ureterorenoskopie (URS) und die mini perkutane Nephrolitholapaxie (mini-PCNL).
+Die moderne Steintherapie dient der schonenden Entfernung von Steinen aus dem Harntrakt. In spezialisierten urologischen Zentren kommen heute minimalinvasive Verfahren zum Einsatz, die eine hohe Steinfreiheitsrate bei gleichzeitig geringer Belastung für den Patienten ermöglichen. Zu den wichtigsten Techniken zählen die Ureterorenoskopie (URS) und die mini perkutane Nephrolitholapaxie (mini-PCNL).
 
 <strong>Diagnostik</strong>
 
