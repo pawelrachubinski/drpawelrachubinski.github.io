@@ -2,8 +2,8 @@
 <svg xmlns="http://www.w3.org/2000/svg"
     width="550" height="120" viewBox="0 0 550 120">
 
-  <!-- Krupp-Ringe: etwas nach links + optisch größer -->
-  <g id="krupp-rings" transform="translate(460 500) scale(0.9) translate(-500 -500)">
+  <!-- Krupp-Ringe: größer + minimal nach rechts -->
+  <g id="krupp-rings" transform="translate(475 500) scale(0.9) translate(-500 -500)">
     <g transform="matrix(1.25,0,0,-1.25,-427.0749,773.59617)">
       <path
          d="M 385.84992,603.00694
@@ -23,7 +23,7 @@
               387.88992,571.56694 395.44992,578.46694 395.44992,586.92694 z"
          fill="none"
          stroke="#000000"
-         stroke-width="2.6"
+         stroke-width="3.0"
          stroke-linecap="round"
          stroke-linejoin="round"
          stroke-miterlimit="10"/>
@@ -37,6 +37,9 @@
         fill="#2F2F41">
     Rachubinski
   </text>
+
+</svg>
+
 
 </svg>
 
