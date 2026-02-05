@@ -3,7 +3,9 @@ title: "TURB bei oberflächlichen Blasentuomoren"
 date: 2026-01-12T12:33:46+10:00
 weight: 11
 ---
-Blasentumoren gehören zu den häufigen urologischen Erkrankungen und werden meist durch Blut im Urin auffällig. Die transurethrale Resektion von Blasentumoren (TUR-B) ist der zentrale erste Schritt zur Diagnose und Behandlung kleiner und oberflächlicher Blasentumoren. Sie dient sowohl der vollständigen Entfernung sichtbarer Tumoren als auch der feingeweblichen Sicherung der Diagnose.
+Blasentumoren gehören zu den häufigen urologischen Erkrankungen und werden meist durch Blut im Urin auffällig. 
+
+Die transurethrale Resektion von Blasentumoren (TUR-B) ist der zentrale erste Schritt zur Diagnose und Behandlung kleiner und oberflächlicher Blasentumoren. Sie dient sowohl der vollständigen Entfernung sichtbarer Tumoren als auch der feingeweblichen Sicherung der Diagnose.
 
 <strong>Diagnostik</strong>
 
