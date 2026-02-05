@@ -1,5 +1,5 @@
 ---
-title: "HOLEP/TURP bei Prostatavergrößerung"
+title: "HOLEP/TURP bei Vergrößerung der Prostata (BPS)"
 date: 2026-01-12T12:33:46+10:00
 weight: 1
 ---
