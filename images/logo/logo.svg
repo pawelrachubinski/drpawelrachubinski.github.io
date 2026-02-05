@@ -4,7 +4,7 @@
 
   <!-- Krupp-Ringe: deutlich größer + minimal nach rechts -->
   <g id="krupp-rings"
-     transform="translate(550 530) scale(1.05) translate(-500 -500)">
+     transform="translate(550 525) scale(1.05) translate(-500 -500)">
     <g transform="matrix(1.25,0,0,-1.25,-427.0749,773.59617)">
       <path
          d="M 385.84992,603.00694
