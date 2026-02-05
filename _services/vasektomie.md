@@ -3,7 +3,9 @@ title: "Vasektomie (Sterilisation) bei abgeschlossenem Kinderwunsch"
 date: 2026-01-12T12:33:46+10:00
 weight: 9
 ---
-Die Vasektomie ist ein kleiner operativer Eingriff zur dauerhaften Empfängnisverhütung beim Mann. Dabei werden die Samenleiter durchtrennt, sodass keine Spermien mehr in die Samenflüssigkeit gelangen. Die sexuelle Funktion, der Hormonhaushalt und das Lustempfinden bleiben unverändert. Die Vasektomie gilt als sehr sichere und langfristige Form der Verhütung.
+Die Vasektomie ist ein kleiner operativer Eingriff zur dauerhaften Empfängnisverhütung beim Mann. 
+
+Dabei werden die Samenleiter durchtrennt, sodass keine Spermien mehr in die Samenflüssigkeit gelangen. Die sexuelle Funktion, der Hormonhaushalt und das Lustempfinden bleiben unverändert. Die Vasektomie gilt als sehr sichere und langfristige Form der Verhütung.
 
 <strong>Diagnostik und Beratung</strong>
 
