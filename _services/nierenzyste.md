@@ -4,7 +4,9 @@ date: 2026-01-12T12:33:46+10:00
 weight: 12
 ---
 
-Nierenzysten sind sehr häufige, gutartige flüssigkeitsgefüllte Hohlräume in der Niere. Etwa 50 % aller Menschen entwickeln im Laufe ihres Lebens eine oder mehrere Nierenzysten. In den allermeisten Fällen sind diese harmlos, verursachen keine Beschwerden und müssen nicht behandelt werden.
+Nierenzysten sind sehr häufige, gutartige flüssigkeitsgefüllte Hohlräume in der Niere. 
+
+Etwa 50 % aller Menschen entwickeln im Laufe ihres Lebens eine oder mehrere Nierenzysten. In den allermeisten Fällen sind diese harmlos, verursachen keine Beschwerden und müssen nicht behandelt werden.
 
 <strong>Diagnostik</strong>
 
