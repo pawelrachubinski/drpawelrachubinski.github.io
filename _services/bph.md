@@ -1,9 +1,9 @@
 ---
-title: "HOLEP/TURP bei Vergrößerung der Prostata (BPH)"
+title: "HOLEP/TURP bei Vergrößerung der Prostata"
 date: 2026-01-12T12:33:46+10:00
 weight: 1
 ---
-Die gutartige Prostatavergrößerung (BPH) führt häufig zu Beschwerden beim Wasserlassen bei Männern.
+Die gutartige Prostatavergrößerung führt häufig zu Beschwerden beim Wasserlassen bei Männern.
 
 Möglich sind u.a. schwacher Harnstrahl, nächtlicher Harndrang, Restharn oder akuter Harnverhalt. 
 
