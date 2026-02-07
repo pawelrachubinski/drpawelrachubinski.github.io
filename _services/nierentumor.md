@@ -3,9 +3,10 @@ title: "Roboterassistierte Nierentumorentfernung mit Da Vinci 5"
 date: 2026-01-12T12:33:46+10:00
 weight: 13
 ---
-Roboterassisiterte Nierentumorentfernung ist ein minimalinvasives Verfahren zur Behandlung der Nierentumore.
 
-Nierentumoren werden heute häufig zufällig im Rahmen von Ultraschall-, CT- oder MRT-Untersuchungen entdeckt. Viele dieser Tumoren sind in einem frühen Stadium gut behandelbar. Dank moderner Bildgebung und minimalinvasiver Chirurgie können Nierentumoren heute sehr präzise und organerhaltend behandelt werden.
+Nierentumoren werden heute häufig zufällig im Rahmen von Bildgebung entdeckt. 
+
+Viele dieser Tumoren sind in einem frühen Stadium gut behandelbar. Dank moderner Bildgebung und minimalinvasiver Chirurgie können Nierentumoren heute sehr präzise und organerhaltend behandelt werden. Roboterassisiterte Nierentumorentfernung ist ein minimalinvasives Verfahren zur Behandlung der Nierentumore.
 
 <strong>Diagnostik</strong>
 
