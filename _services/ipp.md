@@ -3,7 +3,7 @@ title: "Penisbegradigung bei IPP/Peyronie Krankheit"
 date: 2026-01-12T12:33:46+10:00
 weight: 5
 ---
-Die Induratio penis plastica (IPP) ist eine Erkrankung des Penis zu einer Verkrümmung des Penis kommt. 
+Die Induratio penis plastica (IPP) ist eine Erkrankung die zu einer Verkrümmung des Penis führt. 
 
 Häufig die Verkrummung ist die Folge einer narbenartige Veränderungen der Schwellkörperhülle (Plaques). Folgen sind Schmerzen, Verkürzung des Penis, Erektionsprobleme und eine deutliche Einschränkung der Sexualität. Die Verkümung kann auch selten angeboren sein.
 
