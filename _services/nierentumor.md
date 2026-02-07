@@ -3,9 +3,9 @@ title: "Roboterassistierte Nierentumorentfernung mit Da Vinci 5"
 date: 2026-01-12T12:33:46+10:00
 weight: 13
 ---
-Nierentumoren werden heute häufig zufällig im Rahmen von Ultraschall-, CT- oder MRT-Untersuchungen entdeckt. 
+Roboterassisiterte Nierentumorentfernung ist ein minimalinvasives Verfahren zur Behandlung der Nierentumore.
 
-Viele dieser Tumoren sind in einem frühen Stadium gut behandelbar. Dank moderner Bildgebung und minimalinvasiver Chirurgie können Nierentumoren heute sehr präzise und organerhaltend behandelt werden.
+Nierentumoren werden heute häufig zufällig im Rahmen von Ultraschall-, CT- oder MRT-Untersuchungen entdeckt. Viele dieser Tumoren sind in einem frühen Stadium gut behandelbar. Dank moderner Bildgebung und minimalinvasiver Chirurgie können Nierentumoren heute sehr präzise und organerhaltend behandelt werden.
 
 <strong>Diagnostik</strong>
 
