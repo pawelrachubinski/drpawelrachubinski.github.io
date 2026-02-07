@@ -5,7 +5,7 @@ weight: 1
 ---
 Die gutartige Prostatavergrößerung führt häufig zu Beschwerden beim Wasserlassen bei Männern.
 
-<img src="images/illustrations/holepprocessnum.png" alt="Holep">
+<img src="/images/illustrations/holepprocessnum.png" alt="Holep">
 Das Bild zeigt illustrativ die Enukleation der Prostata. 1) Anfang der Enukleation 2) Der linke Seitenlappen enukleiert 3) Die Enukleation abgeschlossen. 
 
 Möglich sind u.a. schwacher Harnstrahl, nächtlicher Harndrang, Restharn oder akuter Harnverhalt. 
