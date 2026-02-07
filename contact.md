@@ -4,6 +4,8 @@ layout: contact
 description: Kontakt
 ---
 
+<strong> Link zur Webseite meines Krankenhauses: <a href="https://www.krupp-krankenhaus.de/urologie-und-urologische-onkologie.html">https://www.krupp-krankenhaus.de/urologie-und-urologische-onkologie.html</a> </strong>
+
 <strong> Telefonisch erreichen Sie die urologische Ambulanz zur Terminvereinbarung in der Sprechstunde (für gesetzlich Versicherte: ambulante Überweisung durch niedergelassenen Urologen erforderlich)  </strong>
 
 <strong> Telefonische Erreichbarkeit:  </strong>
