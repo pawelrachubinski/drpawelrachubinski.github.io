@@ -1,5 +1,5 @@
 ---
-title: "Roboterassistierte Nierentumorentfernung mit Da Vinci 5"
+title: "roboterassistierte Nierentumorentfernung mit Da Vinci 5"
 date: 2026-01-12T12:33:46+10:00
 weight: 13
 ---
