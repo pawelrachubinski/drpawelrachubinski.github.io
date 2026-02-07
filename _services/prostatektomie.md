@@ -4,7 +4,7 @@ date: 2026-01-12T12:33:46+10:00
 weight: 4
 ---
 
-Die roboterassistierte Prostatektomie ist ein minimalinvasives Operationsverfahren zur Behandlung des Prostatakarzinoms.
+Die roboterassistierte Prostatektomie dient der minimalinvasiven Behandlung des Prostatakarzinoms.
 
 Als System der neuesten Generation setzt da Vinci 5 neue Maßstäbe in Präzision, Darstellung und operativer Kontrolle. Ziel des Eingriffs ist die vollständige Entfernung der Prostata bei maximaler Schonung von Nerven, Schließmuskel und umliegenden Strukturen – mit optimalen Voraussetzungen für Kontinenz und Potenzerhalt.
 
