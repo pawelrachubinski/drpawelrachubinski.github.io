@@ -4,7 +4,7 @@ date: 2026-01-12T12:33:46+10:00
 weight: 3
 ---
 
-Die Prostatabiopsie dient der sicheren Abklärung, ob ein Prostatakarzinom vorliegt. 
+Die Prostatabiopsie dient der sicheren Abklärung, ob ein Prostatakrebs vorliegt. 
 
 In spezialisierten Zentren wird dazu die moderne MR-Fusionsbiopsie eingesetzt, bei der MRT-Bilddaten mit Echtzeit-Ultraschall kombiniert werden. Dadurch können verdächtige Bereiche gezielt und präzise biopsiert werden.
 
