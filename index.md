@@ -1,7 +1,7 @@
 ---
 title: Dr. Rachubinski
 layout: home
-description: Dr. med. Pawel Rachubinski - einfach Urologie
+description: Dr. med. Pawel Rachubinski - Urologie aus Überzeugung
 intro_image: "images/illustrations/portrait.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
