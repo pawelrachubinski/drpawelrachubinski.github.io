@@ -12,5 +12,6 @@ show_call_box: true
 
 Facharzt für Urologie & FEBU (Fellow of the European Board of Urology). Oberarzt in der Klinik für Urologie und urologische Onkologie in Alfried-Krupp-Krankenhaus in Essen-Steele. 
 
-Einfach Urologie - modern, transparent, patientenorientiert.
+Urologie ist mein Fach - bewusst gewählt und aus Überzeugung. Mit Leidenschaft, fachlicher Klarheit und Verantwortung gegenüber jedem einzelnen Patienten.
+
 Gesetzlich oder privat – im Rahmen der Versicherung ohne Zusatzkosten. 
